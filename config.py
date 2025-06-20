@@ -1,12 +1,3 @@
-# import os
-
-# BOT_TOKEN = os.getenv("BOT_TOKEN", "7774623884:AAHJoK1ismzJA4d5XQon8jFA2UD4YZkjQww")
-# DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./database_bot.db")
-
-# CAPTCHA_OPERATIONS = ["+", "-"]
-
-
-
 from pydantic_settings import BaseSettings
 from typing import List
 
